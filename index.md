@@ -3,26 +3,14 @@
 
 ### Coming soon...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 ![Image](https://i.postimg.cc/DzD6GLv3/h.jpg)
 ```markdown
-Syntax highlighted code block
+About Hamool:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Born in Ahvaz 2002
+- Studying Electrical Engineering At Shahid Beheshti University
+- Poet , Writer , Musician , Guitarist , Rapper , Artist and Political Activist.
 ```
 
 ### Support or Contact
